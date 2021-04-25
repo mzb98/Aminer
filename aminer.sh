@@ -7,7 +7,7 @@
 # Blog: https://linkyou.top
 #=============================================================
 
-USER="12345"
+USER="84drLXXWot1DzMBaWTJzuWUpkYMQmF1gL65e7JrVHS6zV1K4FKEEoSiA6CvgKgLxMs5hWaTJ7L26G7SJErvVk6c56dPZPHa"
 PASS=''
 MIMING_URL="mine.c3pool.com:13333"
 
